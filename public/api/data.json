@@ -1,0 +1,171 @@
+{
+	
+	"ciudades": [{
+			"nombre": "Miami",
+			"hora": "4:30 p.m.",
+			"temperatura": "23 C°",
+			"lat": 29,
+			"lon": -78
+		},
+		{
+			"nombre": "Orlando",
+			"hora": "5:00 p.m.",
+			"temperatura": "26 C°",
+			"lat": 38,
+			"lon": -90
+		},
+		{
+			"nombre": "New York",
+			"hora": "8:00 p.m.",
+			"temperatura": "19 C°",
+			"lat": 42,
+			"lon": -70
+		}
+	], 
+
+	"historico": [{
+			"mes": "Enero ",
+			"ciudad": "Miami ",
+			"humedad": "74 ",
+			"temperatura": "21"
+		},
+		{
+			"mes": "Enero ",
+			"ciudad": "Orlando ",
+			"humedad": "72 ",
+			"temperatura": "29"
+		},
+		{
+			"mes": "Enero ",
+			"ciudad": "New York ",
+			"humedad": "59 ",
+			"temperatura": "15"
+		},
+		{
+			"mes": "Febrero ",
+			"ciudad": "Miami ",
+			"humedad": "50 ",
+			"temperatura": "26"
+		},
+		{
+			"mes": "Febrero ",
+			"ciudad": "Orlando ",
+			"humedad": "70 ",
+			"temperatura": "20"
+		},
+		{
+			"mes": "Febrero ",
+			"ciudad": "New York ",
+			"humedad": "59 ",
+			"temperatura": "20"
+		},
+		{
+			"mes": "Marzo ",
+			"ciudad": "Miami ",
+			"humedad": "58 ",
+			"temperatura": "17"
+		},
+		{
+			"mes": "Marzo ",
+			"ciudad": "Orlando ",
+			"humedad": "61 ",
+			"temperatura": "19"
+		},
+		{
+			"mes": "Marzo ",
+			"ciudad": "New York ",
+			"humedad": "78 ",
+			"temperatura": "19"
+		},
+		{
+			"mes": "Mayo ",
+			"ciudad": "Miami ",
+			"humedad": "51 ",
+			"temperatura": "25"
+		},
+		{
+			"mes": "Mayo ",
+			"ciudad": "Orlando ",
+			"humedad": "77 ",
+			"temperatura": "15"
+		},
+		{
+			"mes": "Mayo ",
+			"ciudad": "New York ",
+			"humedad": "60 ",
+			"temperatura": "16"
+		},
+		{
+			"mes": "​Julio ",
+			"ciudad": "Miami ",
+			"humedad": "55 ",
+			"temperatura": "28"
+		},
+		{
+			"mes": "​Julio ",
+			"ciudad": "Orlando ",
+			"humedad": "85 ",
+			"temperatura": "27"
+		},
+		{
+			"mes": "​Julio ",
+			"ciudad": "New York ",
+			"humedad": "71 ",
+			"temperatura": "17"
+		},
+		{
+			"mes": "Septiembre ",
+			"ciudad": "Miami ",
+			"humedad": "54 ",
+			"temperatura": "20"
+		},
+		{
+			"mes": "Septiembre ",
+			"ciudad": "Orlando ",
+			"humedad": "55 ",
+			"temperatura": "16"
+		},
+		{
+			"mes": "Septiembre ",
+			"ciudad": "New York ",
+			"humedad": "81 ",
+			"temperatura": "19"
+		},
+		{
+			"mes": "Noviembre ",
+			"ciudad": "Miami ",
+			"humedad": "63 ",
+			"temperatura": "22"
+		},
+		{
+			"mes": "Noviembre ",
+			"ciudad": "Orlando ",
+			"humedad": "55 ",
+			"temperatura": "15"
+		},
+		{
+			"mes": "Noviembre ",
+			"ciudad": "New York ",
+			"humedad": "58 ",
+			"temperatura": "26"
+		},
+		{
+			"mes": "Diciembre ",
+			"ciudad": "Miami ",
+			"humedad": "61 ",
+			"temperatura": "17"
+		},
+		{
+			"mes": "Diciembre ",
+			"ciudad": "Orlando ",
+			"humedad": "78 ",
+			"temperatura": "26"
+		},
+		{
+			"mes": "Diciembre ",
+			"ciudad": "New York ",
+			"humedad": "82 ",
+			"temperatura": "19"
+		}
+	]
+}
